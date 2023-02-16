@@ -1,0 +1,7 @@
+{
+    "name": "framework-quectel",
+    "description": "Quectel Frameworks for PlatformIO",
+    "url": "https://github.com/alvarolb/framework-quectel",
+    "system": "*",
+    "version": "2.1.03"
+}
